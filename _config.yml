@@ -17,7 +17,7 @@ title: TOP Blog
 email: nielsen.dylan@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Learning Ruby on Rails with the Odin Project
-baseurl: "" # the subpath of your site, e.g. /blog
+baseurl: "/table-of-contents" # the subpath of your site, e.g. /blog
 url: "https://resputin.github.io" # the base hostname & protocol for your site
 github_username:    resputin
 instagram_username: nielsen_dylan
