@@ -1,9 +1,11 @@
 ---
 layout: post
 title:  "Ruby Retrospective Part 1"
-date:   2016-10-24 10:12:16 -0700
+date:   2016-10-26 14:50:10 -0700
 ---
+
 This will be a long multipart series looking back at the work I did during the Ruby section of [The Odin Project](http://www.theodinproject.com/courses/ruby-programming). None of this particularly correct, but I figure that documenting my progress will be a hilarious time capsule of what I struggled with and how much more I can improve things in the future.
+
 
 <h1>Caesar Cypher</h1>
 The first project was [Caesar Cypher](http://www.theodinproject.com/courses/ruby-programming/lessons/building-blocks). 
