@@ -4,11 +4,15 @@ title:  "Ruby Retrospective Part 2"
 date:   2016-10-29 10:03:10 -0700
 ---
 
-Part 2 of my Ruby retrospective!
+Part 2 of my Ruby retrospective discussing my progress through [The Odin Project!](http://www.theodinproject.com/courses/ruby-programming)
+<br><br>[Link to part 1.]({% post_url 2016-10-26-ruby-retrospective-pt1 %})
+
+
+
 
 <h1>Stock Picker</h1>
 
-Another relatively simple project, this time my first project to make my own method calls within another method. Looking back this solution doesn't particularly scale very well over a larger amount of data points, each new value in the array causes the program to iterate through the rest of the array. I'm not sure how to optimize this to be less intensive so any ideas would be very helpful here!
+Another relatively simple project, this time my first project to make my own method calls within another method. Looking back this solution doesn't particularly scale very well over a larger amount of data points, each new value in the array causes the program to iterate through the rest of the array. I'm not sure how to optimize this to be less intensive so any ideas would be very helpful here.
 
 Original code:
 
