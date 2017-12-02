@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Devember Day 1"
-date:   2017-12-1 16:2:16 -0700
+date:   2017-12-1 16:02:16 -0700
 ---
 
 After a long time away I've decided to pick back up on the programming journey with [The Odin Project] (http://www.theodinproject.com). This is being motivated by the Devember movement that I found on r/learnprogramming. The goal of Devember is to spend at least one hour a day programming and then a short amount of time after that writing up the progress that was made everyday for the month of December.
